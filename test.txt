@@ -1,0 +1,15 @@
+v low:73
+s high:144
+v high:139
+h high:75
+h low:43
+s low:80
+canny switch:0
+minDist:32
+param2:35
+param1:50
+minRadius:10
+canny tresh1:50
+maxRadius:200
+dp:1
+canny tresh2:200
